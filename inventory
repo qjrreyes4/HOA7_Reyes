@@ -1,10 +1,13 @@
-[web_server]
+[workstations]
+roy@192.168.56.104
+
+[web_servers]
 roy@192.168.56.103 
 qjrreyes4@192.168.56.105 
 
-[db_server]
+[db_servers]
 roy@192.168.56.104 
 qjrreyes4@192.168.56.105 
 
-[file_server]
+[file_servers]
 roy@192.168.56.103

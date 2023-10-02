@@ -1,0 +1,10 @@
+[web_server]
+roy@192.168.56.103 
+qjrreyes4@192.168.56.105 
+
+[db_server]
+roy@192.168.56.104 
+qjrreyes4@192.168.56.105 
+
+[file_server]
+roy@192.168.56.103
